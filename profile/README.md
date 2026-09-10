@@ -1,4 +1,4 @@
-# 🧠 Matt McNeill's Skill Library
+# 🧠 Matt's Skill Library
 
 A curated collection of **AI agent skills** for [Google Antigravity (AGY)](https://github.com/google/antigravity) and [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — each skill lives in its own repo, ready to be added to any project.
 
